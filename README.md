@@ -48,8 +48,10 @@ This “hover + hold” approach makes the typing much more stable compared to g
 1. Make sure Python is installed (preferably Python 3.10)
 
 2. Install required libraries: pip install -r requirements.txt
+   
+3. Activate environment airkeyboard_env\Scripts\activate
 
-3. Run the program: python virtual_keyboard.py
+4. Run the program: python virtual_keyboard.py
 
 
 ## Controls
